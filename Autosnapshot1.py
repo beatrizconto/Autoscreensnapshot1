@@ -1,0 +1,3 @@
+Open snap shot
+Auto snapshot
+Auto save:"1";"2"; "3" ....
